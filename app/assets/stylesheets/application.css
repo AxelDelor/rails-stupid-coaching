@@ -13,3 +13,13 @@
  *= require_tree .
  *= require_self
  */
+
+ .dialog {
+  margin-bottom: 48px;
+  border-left: solid rgb(201, 201, 201) 8px;
+  padding: 8px;
+ }
+
+
+ a {
+ }
